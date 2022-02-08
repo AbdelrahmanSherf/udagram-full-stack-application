@@ -39,13 +39,15 @@
 14. Back-End Deploy
 
 # Screenshots of the CircleCi's Workflow
-![](./screenshots/cci1-sc.jpeg)
 #### **Last Build**
----
-![](./screenshots/cci2-sc.jpeg)
-![](./screenshots/cci3-sc.jpeg)
-#### **Pipeline**
----
+![CCI LAST BUILD](./screenshots/cci1-sc.jpeg)
 
-![](./screenshots/cci4-sc.jpeg)
+#### **Pipeline**
+![CCI PIPELINE#1](./screenshots/cci2-sc.jpeg)
+![CCI PIPELINE#2](./screenshots/cci3-sc.jpeg)
+
 #### **Environment Variables**
+![CCI ENV VARS](./screenshots/cci4-sc.jpeg)
+
+
+

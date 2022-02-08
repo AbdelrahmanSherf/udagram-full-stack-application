@@ -1,4 +1,4 @@
-# Udagram
+# Udagram [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://github.com/AbdelrahmanSherf/dagram-full-stack-application) 
 
 The udagram application is an application that includes all the major components of a Full-Stack web application.
 
@@ -6,9 +6,10 @@ The udagram application is an application that includes all the major components
 # [Chlick Here For More Information About Pipeline-Infrastructure Provided by CircleCi, Screenshots included](./Documentation/pipeline-infrastructure.md)
 
 ## Provision the necessary AWS services needed for running the application:
-1. AWS RDS `database-1.c3figwjumoou.us-east-1.rds.amazonaws.com`
-2. AWS S3 Bucket for Front-End `http://udagram-704326196974.s3-website-us-east-1.amazonaws.com`
-3. AWS EB for Back-End `http://Udagramapidev2-env.eba-kvwe23rr.us-east-1.elasticbeanstalk.com/api/v0`
+1. AWS RDS Link [database-1.c3figwjumoou.us-east-1.rds.amazonaws.com](database-1.c3figwjumoou.us-east-1.rds.amazonaws.com)
+
+2. AWS S3 Bucket for Front-End Link [http://udagram-704326196974.s3-website-us-east-1.amazonaws.com](http://udagram-704326196974.s3-website-us-east-1.amazonaws.com)
+3. AWS EB for Back-End [http://Udagramapidev2-env.eba-kvwe23rr.us-east-1.elasticbeanstalk.com/api/v0](http://Udagramapidev2-env.eba-kvwe23rr.us-east-1.elasticbeanstalk.com/api/v0)
 
 ## Getting Started Locally
 

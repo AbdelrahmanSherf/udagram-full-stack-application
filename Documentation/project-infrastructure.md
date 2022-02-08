@@ -12,11 +12,11 @@
 
 
 # Screenshots of the AWS's Services and Helth
-![AWS RDS](./screenshots/db-sc.jpeg)
 #### **AWS RDS**
----
-![AWS S3](./screenshots/s3-sc.jpeg)
+![AWS RDS](./screenshots/db-sc.jpeg)
+
 #### **AWS S3 Front-End/Media Bucket**
----
-![AWS EB](./screenshots/eb-sc.jpeg)
+![AWS S3](./screenshots/s3-sc.jpeg)
+
 #### **AWS Elastic Beanstalk**
+![AWS EB](./screenshots/eb-sc.jpeg)
